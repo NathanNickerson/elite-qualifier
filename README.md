@@ -1,15 +1,12 @@
-# Title
-Simple (or clever and funny?) description
-hello,how are you
+# The best chatbox ever made
+by the time youre done talking, this computer will be your best friend
 ## Table of Contents
 - [Background](#background)
 - [Install](#install)
 - [Usage](#usage)
 ## Background
-This is why this application exists.
+This was made in order for users to have an interactive conversation with a computer
 ## Install
-These are the steps to setup your local environment to run this
-application.
+This is made in main.py python
 ## Usage
-These are the steps to use the application or interact with it.
-### Any optional sections
+You click run on this code then you're all set.In order to start talking to the computer you ask it things, and respond to it.
