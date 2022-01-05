@@ -1,4 +1,4 @@
-# The best chatbox ever made
+# The best chatbox ever made :)
 by the time youre done talking, this computer will be your best friend
 ## Table of Contents
 - [Background](#background)
