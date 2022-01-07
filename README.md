@@ -10,3 +10,5 @@ This was made in order for users to have an interactive conversation with a comp
 This is made in main.py python
 ## Usage
 You click run on this code then you're all set.In order to start talking to the computer you ask it things, and respond to it.
+
+this will cause conflict
